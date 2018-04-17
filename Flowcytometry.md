@@ -4,6 +4,9 @@ http://kin.naver.com/open100/detail.nhn?d1id=11&dirId=1116&docId=1465825&qb=YWNv
 
 -> 한글 자료..!!!
 
+- 측정하고자 하는 세포집단의 세포들을 각각 하나씩 측정하여 분석하는 특징을 가짐 
+- 유액 상태의 입자나 세포를 감지하기 위해 일정 파장을 띄는 형광이 표지된 항체 같은 형광염색소의 표지가 필수적, 형광을 감지 하기 위해 광원인 레이저 광원을 통한 형광의 발광 작용 이용
+
 
 
 Fluorescence(형광, 발광) - 파장의 빛을 흡수하는 물질의 성질 
@@ -74,6 +77,8 @@ A flouorescent probe is a fluorophore designed to localize within a specific ref
 
 Flow Cytometery Componets
 
+크게 세개의 중요한 부분으로 나누어짐 : fludics, optics, electronics
+
 Cytometry : measurement of physical or chemical characteristics of cells or particles
 
 - 세포의 또는 입자의 물리적 혹은 화학적 특성 측정
@@ -119,14 +124,21 @@ Flow Cytometry is a technology that simultaneously measures and analyses multipl
 
   - light signal을 발생하고 수집
     - 흐르는 입자들을 발광시키는 빛을 발사하는 레이저들로 이루어짐
+
     - 입자에서 방출된 형광물질에 대한 데이터가 수집 => 입자별로 빛이 산란되는 고유의 특성을 기반으로 분석이 진행
+
     - Laser Light Scatter
         - Forward Scattered light(FSC) : 세포 표면적(cell-surface area) 또는 크기에 비례(proportional), 입자의 정확한 사이즈를 표현하는 것은 아님(rough estimate the size)
         - Side-Scattered light(SSC) :proportional to cell granularity/internal complexity of the cell. 셀 세분성 / 셀의 내부 복잡성에 비례합니다.  주로 레이저의 90도에서 수집
+
     - Optical Filters : 특정 파장 범위의 광을 선택적으로 투과 시키면서 나머지를 흡수 또는 반사, 종류 : Bandpass, Longpass, Shortpass,Dichronic,Neutral Density Filter
+
+        ​
 
 - Electronics : 전자 시스템
   - 감지된 빛 신호(optical signal)를 electronic pulses로 변환 후 감지하여 컴퓨터가 이를 데이터 형태로 분석할 수 있도록 함
+  - 전류에 의해 Pulse가 생성 됨
+  - Pulse의 진폭은 Photodetector에 도착하는 Photon의 수에 비례
   - particle pass through the laser beam 할때 signal 생성
   - 빠른 시간에 많은 수의 세포에 대한 정보를 분석
   - 단일 매개변수 막대그래프 형태나 상호 매개변수의 그래프로 표시 => Cytogram
