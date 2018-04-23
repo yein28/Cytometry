@@ -64,15 +64,15 @@ A fluorescent probe is a fluorophore designed to localize within a specific regi
 
 4. Energy Loss
 
-		Fluorophore가 high-energy configuration 일때는 unstable하기때문에 결국 semi-stable이라고 부르는lowest-energy excited state를 취합니다.
+   Fluorophore가 high-energy configuration 일때는 unstable하기때문에 결국 semi-stable이라고 부르는lowest-energy excited state를 취합니다.
 
-	fluorophore가 excited states에 있는 시간을 excited lifetime이라고함, 굉장히 짧게 지속됨
+   fluorophore가 excited states에 있는 시간을 excited lifetime이라고함, 굉장히 짧게 지속됨
 
 5. Fluorescence Emission
 
    fluorophore가 semi-stable excites state에서 rearrange하여 ground state로 돌아감 그리고 과잉된 에너지가 빛으로 방출됨
 
-	방출 된 광은 흡수 된 광보다 에너지가 낮고 따라서 장 파장이다. 이는 방출되는 빛의 색이 흡수된 빛의 색과 다르다는 것을 의미함
+   방출 된 광은 흡수 된 광보다 에너지가 낮고 따라서 장 파장이다. 이는 방출되는 빛의 색이 흡수된 빛의 색과 다르다는 것을 의미함
 
 <br>
 
