@@ -7,7 +7,7 @@ http://kin.naver.com/open100/detail.nhn?d1id=11&dirId=1116&docId=1465825&qb=YWNv
 - 유액 상태의 입자나 세포를 감지하기 위해 일정 파장을 띄는 형광이 표지된 항체 같은 형광염색소의 표지가 필수적, 형광을 감지 하기 위해 광원인 레이저 광원을 통한 형광의 발광 작용 이용
 
 
-####Fluorescence(형광)
+#### Fluorescence(형광)
 
 *Result of process in certain molecules which are called fluorophores, or fluorescent dyes.*
 
@@ -60,19 +60,19 @@ A fluorescent probe is a fluorophore designed to localize within a specific regi
 
 3. Fluorophore in Excited state
 
-   **Excitation** : 흡수된 에너지가 충분할 경우 molecule은 excited sate라 불리는 고 에너지 state에까지 도달하는 프로세스
+   Excitation : 흡수된 에너지가 충분할 경우 molecule은 excited sate라 불리는 고 에너지 state에까지 도달하는 프로세스
 
 4. Energy Loss
 
 		Fluorophore가 high-energy configuration 일때는 unstable하기때문에 결국 semi-stable이라고 부르는lowest-energy excited state를 취합니다.
 
-		fluorophore가 excited states에 있는 시간을 excited lifetime이라고함, 굉장히 짧게 지속됨
+	fluorophore가 excited states에 있는 시간을 excited lifetime이라고함, 굉장히 짧게 지속됨
 
 5. Fluorescence Emission
 
    fluorophore가 semi-stable excites state에서 rearrange하여 ground state로 돌아감 그리고 과잉된 에너지가 빛으로 방출됨
 
-		방출 된 광은 흡수 된 광보다 에너지가 낮고 따라서 장 파장이다. 이는 방출되는 빛의 색이 흡수된 빛의 색과 다르다는 것을 의미함
+	방출 된 광은 흡수 된 광보다 에너지가 낮고 따라서 장 파장이다. 이는 방출되는 빛의 색이 흡수된 빛의 색과 다르다는 것을 의미함
 
 <br>
 
@@ -108,7 +108,7 @@ Fluorescence Emission
 
 *It's important to remember that although illumination at the excitation maximum of the fluorophore produces the greatest fluorescence output illumination at lower or higher wavelengths affects only the intensity of the emitted light the overall range and shape of the emission profile are unchanged.*
 
-
+<br>
 
 #### Flow Cytometer Basics
 
@@ -151,7 +151,7 @@ Flow Cytometry is a technology that simultaneously measures and analyses multipl
 - Ability to archive FCS(Flow Cytometry Standard) files, because of this Flexibility of data analysis give the ability to re-analyze data : 데이터 분석의 유연함으로 데이터를 재분석 할 수 있음 
 - Using one of the more sophisticated flow cytometers, cells can be physically sorted. Sub-populations can be purified for further study.
 - Using another of the more sophisticated flow cytometers, cells can be imaged at the same time, giving morphology and spatial information also.
-  - 보다 정교한 flow cytometer를 사용해서 세포는 동시에 이미지화되어 형태학민 공간 정보또한 얻을 수 있음
+  - 보다 정교한 flow cytometer를 사용해서 세포는 동시에 이미지화되어 형태학적인 공간 정보 또한 얻을 수 있음
 
 <br>
 
@@ -206,7 +206,7 @@ Flow Cytometry is a technology that simultaneously measures and analyses multipl
 
 <br>
 
-####Data Basics
+#### Data Basics
 
 **Flow Cytometry Standard(FCS) Files**
 
