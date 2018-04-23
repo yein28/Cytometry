@@ -1,7 +1,5 @@
 # Basic of flow(유) cytometry(세포측정), Part I: Gating and data analysis
 
-http://kin.naver.com/open100/detail.nhn?d1id=11&dirId=1116&docId=1465825&qb=YWNvdXN0aWMgZm9jdXNpbmc=&enc=utf8&section=kin&rank=1&search_sort=0&spq=1&pid=TWU4NwpySDVssaCXKhZssssssmC-334949&sid=azAu9RSNOZQrTLN/hS76fA%3D%3D
-
 - 측정하고자 하는 세포집단의 세포들을 각각 하나씩 측정하여 분석하는 특징을 가짐 
 
 - 유액 상태의 입자나 세포를 감지하기 위해 일정 파장을 띄는 형광이 표지된 항체 같은 형광염색소의 표지가 필수적, 형광을 감지 하기 위해 광원인 레이저 광원을 통한 형광의 발광 작용 이용
